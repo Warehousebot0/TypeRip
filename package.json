@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://badnoise.net/TypeRip/",
+  "homepage": "https://warehousebot0.github.io/TypeRip/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
